@@ -1,5 +1,9 @@
 MachineLearningCourse
 ==============
+_欢迎关注我的另外两个github项目_
+ * [_教你成为全栈工程师_](https://github.com/warmheartli/FullStackDeveloperCourse)
+ * [_自己动手做聊天机器人教程_](https://github.com/warmheartli/ChatBotCourse)
+
 机器学习精简入门教程
 ==============
  * [机器学习教程 一-不懂这些线性代数知识 别说你是搞机器学习的](http://www.shareditor.com/blogshow/?blogId=1)(2016-04-01)
