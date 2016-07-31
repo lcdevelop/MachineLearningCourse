@@ -1,5 +1,6 @@
 MachineLearningCourse
 ==============
+![SharEDITor](http://www.shareditor.com/images/weixinpub.jpg)
 _欢迎关注我的另外两个github项目_
  * [_教你成为全栈工程师_](https://github.com/warmheartli/FullStackDeveloperCourse)
  * [_自己动手做聊天机器人教程_](https://github.com/warmheartli/ChatBotCourse)
