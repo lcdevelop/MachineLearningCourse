@@ -1,6 +1,7 @@
 MachineLearningCourse
 ==============
 _欢迎关注我的微信公众号_
+
 <img src="https://github.com/warmheartli/MachineLearningCourse/blob/master/weixinpub.jpg" width = "150" height = "150" alt="SharEDITor" />
 
 _欢迎关注我的另外两个github项目_
