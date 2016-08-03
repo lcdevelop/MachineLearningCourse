@@ -22,3 +22,4 @@ _欢迎关注我的另外两个github项目_
  * [机器学习教程 十-用scikit-learn的网格搜索快速找到最优模型参数](http://www.shareditor.com/blogshow/?blogId=60)(2016-06-02)
  * [机器学习教程 十一-用scikit-learn做聚类分析](http://www.shareditor.com/blogshow/?blogId=61)(2016-06-03)
  * [机器学习教程 十二-神经网络模型的原理](http://www.shareditor.com/blogshow/?blogId=91)(2016-07-29)
+ * [机器学习教程 十三-用scikit-learn做逻辑回归](http://www.shareditor.com/blogshow/?blogId=93)(2016-08-03)
