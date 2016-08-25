@@ -26,3 +26,4 @@ _欢迎关注我的另外两个github项目_
  * [机器学习教程 十四-利用tensorflow做手写数字识别](http://www.shareditor.com/blogshow/?blogId=94)(2016-08-03)
  * [机器学习教程 十五-细解卷积神经网络](http://www.shareditor.com/blogshow/?blogId=95)(2016-08-06)
  * [机器学习教程 十六-深究熵的概念和公式以及最大熵原理](http://www.shareditor.com/blogshow/?blogId=98)(2016-08-17)
+ * [机器学习教程 十七-逻辑回归公式的数学推导](http://www.shareditor.com/blogshow/?blogId=102)(2016-08-24)
