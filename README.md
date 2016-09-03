@@ -29,3 +29,4 @@ _欢迎关注我的另外两个github项目_
  * [机器学习教程 十七-逻辑回归公式的数学推导](http://www.shareditor.com/blogshow/?blogId=102)(2016-08-24)
  * [机器学习教程 十八-R语言特征工程实战](http://www.shareditor.com/blogshow/?blogId=106)(2016-09-01)
  * [机器学习教程 十九-看数据科学家是如何找回丢失的数据的（一）](http://www.shareditor.com/blogshow/?blogId=107)(2016-09-03)
+ * [机器学习教程 二十-看数据科学家是如何找回丢失的数据的（二）](http://www.shareditor.com/blogshow/?blogId=108)(2016-09-03)
