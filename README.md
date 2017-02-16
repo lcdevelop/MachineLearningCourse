@@ -33,3 +33,4 @@ _欢迎关注我的另外两个github项目_
  * [机器学习教程 二十一-R语言炫技必备基本功](http://www.shareditor.com/blogshow/?blogId=109)(2016-09-06)
  * [机器学习教程 二十二-一小时掌握R语言数据可视化](http://www.shareditor.com/blogshow/?blogId=110)(2016-09-13)
  * [机器学习教程 二十三-R语言强大工具包ggplot绘图以外的那些事](http://www.shareditor.com/blogshow/?blogId=111)(2016-09-13)
+ * [机器学习教程 二十四-[吐血整理]涉及面最广的机器学习资料大全](http://www.shareditor.com/blogshow/?blogId=123)(2017-02-16)
